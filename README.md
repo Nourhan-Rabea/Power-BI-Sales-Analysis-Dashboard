@@ -84,3 +84,4 @@ These measures power the visuals and enable interactive filtering by **Year**, *
 
 ## 🏁 Conclusion
 This project demonstrates how **data modeling and DAX** can transform raw sales data into meaningful insights through interactive visual storytelling in Power BI.
+

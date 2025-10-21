@@ -75,13 +75,14 @@ These measures power the visuals and enable interactive filtering by **Year**, *
 ## 📷 Dashboard Preview
 
 ### **Sales Overview**
-![Sales Overview](images/Sales 1%201.PNG)
+![Sales Overview](images/Sales%201.PNG)
 
 ### **Sales Details**
-![Sales Details](images/Sales 2%202.PNG)
+![Sales Details](images/Sales%202.PNG)
 
 ---
 
 ## 🏁 Conclusion
 This project demonstrates how **data modeling and DAX** can transform raw sales data into meaningful insights through interactive visual storytelling in Power BI.
+
 
